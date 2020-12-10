@@ -16,5 +16,6 @@ Modifications include:
 
 
 ## Ganache
+<p align="center">
 <img src="thumbnail_Ganache Transactions.png" width="800" height="700"/>
-
+</p>
