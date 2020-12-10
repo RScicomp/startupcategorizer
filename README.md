@@ -7,3 +7,9 @@ Modifications include:
 - Access to Firebase Database
 - Token rewards 
 - Solidity Contract
+
+## Demo
+<img src="thumbnail_App Interface.png" width="1000" height="700"/>
+<img src="thumbnail_App Token Dashboard.png" width="1000" height="700"/>
+<img src="thumbnail_Ganache Transactions.png" width="1000" height="700"/>
+
